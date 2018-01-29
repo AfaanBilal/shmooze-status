@@ -1,1 +1,3 @@
-Visit this site at https://AfaanBilal.github.io/shmooze-status/
+Shmooze Status
+=============
+https://status.shmooze.io
