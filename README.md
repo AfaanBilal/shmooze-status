@@ -1,1 +1,1 @@
-Visit this site at https://AfaanBilal.github.io/shmooze-status/
+At https://afaan.me/shmooze-status/
