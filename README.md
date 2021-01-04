@@ -1,1 +1,1 @@
-At https://afaan.me/shmooze-status/
+At https://afaan.dev/shmooze-status/
