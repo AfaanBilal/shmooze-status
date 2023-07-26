@@ -1,1 +1,3 @@
-At https://afaan.dev/shmooze-status/
+Shmooze Status
+=============
+https://status.shmooze.io
